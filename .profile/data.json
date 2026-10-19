@@ -1,0 +1,291 @@
+{
+ "key": "457bfc3f",
+ "stars": 11,
+ "contributions": 1069,
+ "repos": 15,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   665568
+  ],
+  [
+   "JavaScript",
+   238542
+  ],
+  [
+   "Dart",
+   85807
+  ],
+  [
+   "CSS",
+   68536
+  ],
+  [
+   "HTML",
+   40111
+  ],
+  [
+   "SCSS",
+   30196
+  ],
+  [
+   "C++",
+   27420
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 19
+ },
+ "pins": [
+  {
+   "name": "min",
+   "url": "https://github.com/gooseDes/min",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "min-site",
+   "url": "https://github.com/gooseDes/min-site",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "min-mobile",
+   "url": "https://github.com/gooseDes/min-mobile",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "min",
+   "url": "https://github.com/gooseDes/min",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "min-frontend",
+   "url": "https://github.com/gooseDes/min-frontend",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "min-web",
+   "url": "https://github.com/gooseDes/min-web",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "min-site",
+   "url": "https://github.com/gooseDes/min-site",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "min-backend",
+   "url": "https://github.com/gooseDes/min-backend",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "5nights-with-totskiy",
+   "url": "https://github.com/gooseDes/5nights-with-totskiy",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "gooseDes",
+   "url": "https://github.com/gooseDes/gooseDes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "redirector",
+   "url": "https://github.com/gooseDes/redirector",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "min-node-api-client",
+   "url": "https://github.com/gooseDes/min-node-api-client",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "smth_idk_server",
+   "url": "https://github.com/gooseDes/smth_idk_server",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "smth_idk",
+   "url": "https://github.com/gooseDes/smth_idk",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ai_thing",
+   "url": "https://github.com/gooseDes/ai_thing",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "undertale-fight-engine",
+   "url": "https://github.com/gooseDes/undertale-fight-engine",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "totskiyloot",
+   "url": "https://github.com/gooseDes/totskiyloot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
