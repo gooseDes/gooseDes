@@ -6,7 +6,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/gooseDes/min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-min-dark.svg"><img src="assets/project-min-light.svg" width="49%" alt="min"></picture></a>&nbsp;<a href="https://github.com/gooseDes/min-site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-min-site-dark.svg"><img src="assets/project-min-site-light.svg" width="49%" alt="min-site"></picture></a>
+<a href="https://github.com/gooseDes/min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-min-dark.svg"><img src="assets/project-min-light.svg" width="49%" alt="min"></picture></a>&nbsp;<a href="https://github.com/gooseDes/way-search"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-way-search-dark.svg"><img src="assets/project-way-search-light.svg" width="49%" alt="way-search"></picture></a>
+
+<a href="https://github.com/gooseDes/min-site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-min-site-dark.svg"><img src="assets/project-min-site-light.svg" width="49%" alt="min-site"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

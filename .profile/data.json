@@ -1,7 +1,7 @@
 {
- "key": "c0c55b08",
- "stars": 12,
- "contributions": 1080,
+ "key": "7fc4fbf0",
+ "stars": 13,
+ "contributions": 1082,
  "repos": 16,
  "followers": 1,
  "languages": [
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 8,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 9,
-    "today": false
-   },
-   {
-    "c": 9,
-    "day": 10,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -141,10 +104,23 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 24,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -160,6 +136,24 @@
    "stars": 2,
    "language": "TypeScript",
    "topics": []
+  },
+  {
+   "name": "way-search",
+   "url": "https://github.com/gooseDes/way-search",
+   "text": "Circle to Search for Linux",
+   "fork": false,
+   "stars": 2,
+   "language": "QML",
+   "topics": [
+    "android",
+    "circle-to-search",
+    "google",
+    "hyprland",
+    "linux",
+    "qml",
+    "quickshell",
+    "wayland"
+   ]
   },
   {
    "name": "min-site",
@@ -182,6 +176,24 @@
    "topics": []
   },
   {
+   "name": "way-search",
+   "url": "https://github.com/gooseDes/way-search",
+   "text": "Circle to Search for Linux",
+   "fork": false,
+   "stars": 2,
+   "language": "QML",
+   "topics": [
+    "android",
+    "circle-to-search",
+    "google",
+    "hyprland",
+    "linux",
+    "qml",
+    "quickshell",
+    "wayland"
+   ]
+  },
+  {
    "name": "min",
    "url": "https://github.com/gooseDes/min",
    "text": "",
@@ -197,15 +209,6 @@
    "fork": false,
    "stars": 2,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "way-search",
-   "url": "https://github.com/gooseDes/way-search",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "QML",
    "topics": []
   },
   {
